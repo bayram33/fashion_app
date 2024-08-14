@@ -1,5 +1,5 @@
 # Purpose of this repo 
-In my little repo contains the hero widget , stcak , animated splash screen , listview , InkWell. Actually in this repo ı wanna teach you that widgets. Enjoy the code, my buddies
+In my little repo contains the hero widget , stcak , animated splash screen , listview , InkWell and i used the  material widget instead of card widget. Actually in this repo ı wanna teach you that widgets. Enjoy the code, my buddies
 
 **********************************************************************************************************************************************************************************
 
