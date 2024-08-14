@@ -1,16 +1,9 @@
-# app
+# Purpose of this repo 
+In my little repo contains the hero widget , stcak , animated splash screen , listview , InkWell. Actually in this repo ı wanna teach you that widgets. Enjoy the code, my buddies
 
-A new Flutter project.
+**********************************************************************************************************************************************************************************
 
-## Getting Started
+## Preview 
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/7c3cfa3f-b214-470e-b1d7-4e2aef927ece
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
